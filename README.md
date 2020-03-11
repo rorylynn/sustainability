@@ -27,13 +27,9 @@ header {text-align:center,}
     </div>
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
-</div>
+ </div>
 
-<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
-<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-  <a href="answers.html" class="w3-bar-item w3-button w3-padding-large">ANSWERS</a>
-  <a href="howcanihelp.html" class="w3-bar-item w3-button w3-padding-large">ACTION</a>
+
  
 </div>
 
